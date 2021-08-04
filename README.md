@@ -1,1 +1,1 @@
-# -
+# Inflearn algorithm
